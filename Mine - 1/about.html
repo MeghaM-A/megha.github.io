@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./about.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="about1">
+      <div class="home1" id="homeText">Home</div>
+      <div class="about-me">About me</div>
+      <div class="live-in">Live in</div>
+      <div class="chennai-tamil-nadu">Chennai, Tamil Nadu</div>
+      <div class="date-of-birth">Date of Birth</div>
+      <div class="th-aug-2003">28th Aug, 2003</div>
+      <div class="megha-m-a1">Megha M A</div>
+      <div class="as-a-dedicated">
+        As a dedicated Full Stack Java Developer at HCL, I am deeply committed
+        to expanding my expertise and bringing innovative projects to life. With
+        a solid foundation in software engineering, I am continuously improving
+        my skills through learning and practical experience. My goal is to
+        utilize cutting-edge technologies to create a standout project that
+        encapsulates my vision and technical abilities.
+      </div>
+      <div class="about2">About</div>
+      <div class="education1" id="educationText">Education</div>
+      <div class="contact1" id="contactText">Contact</div>
+      <img class="about-child" alt="" src="./public/line-31.svg" />
+
+      <img class="about-item" alt="" src="./public/line-4.svg" />
+
+      <img
+        class="microsoftteams-image-1-1"
+        alt=""
+        src="./public/microsoftteamsimage-1-1@2x.png"
+      />
+
+      <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
+
+      <img class="image-9-icon" alt="" src="./public/image-9@2x.png" />
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var educationText = document.getElementById("educationText");
+      if (educationText) {
+        educationText.addEventListener("click", function (e) {
+          window.location.href = "./education.html";
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./contact.html";
+        });
+      }
+      </script>
+  </body>
+</html>

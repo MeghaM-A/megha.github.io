@@ -1,0 +1,126 @@
+.home2 {
+  left: 417px;
+  width: 90px;
+  cursor: pointer;
+}
+.about3,
+.contact2,
+.education3,
+.home2 {
+  position: absolute;
+  top: 37px;
+  font-weight: 600;
+  display: inline-block;
+  height: 58px;
+}
+.about3 {
+  left: 562px;
+  width: 91px;
+  cursor: pointer;
+}
+.contact2,
+.education3 {
+  left: 707px;
+  width: 140px;
+}
+.contact2 {
+  left: 894px;
+  width: 111px;
+  cursor: pointer;
+}
+.education-child,
+.education-item {
+  position: absolute;
+  top: 79px;
+  left: 708px;
+  width: 133px;
+  height: 2px;
+  object-fit: contain;
+}
+.education-item {
+  top: 929px;
+  left: 1333px;
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.p {
+  margin: 0;
+}
+.education4,
+.school-life {
+  position: absolute;
+  top: 272px;
+  left: 442px;
+  font-size: 30px;
+  display: inline-block;
+  width: 177px;
+  height: 74px;
+}
+.education4 {
+  top: 148px;
+  left: 513px;
+  font-size: 36px;
+  font-weight: 600;
+  width: 207px;
+  height: 49px;
+}
+.education-inner {
+  position: absolute;
+  top: 209.9px;
+  left: 513px;
+  width: 192.4px;
+  height: 0.5px;
+  object-fit: contain;
+}
+.image-3-icon,
+.line-icon {
+  position: absolute;
+  top: 356.8px;
+  left: 452px;
+  width: 165px;
+  height: 0;
+}
+.image-3-icon {
+  top: 148px;
+  left: 436px;
+  border-radius: 1000px;
+  width: 66px;
+  height: 71px;
+  object-fit: cover;
+}
+.from-2006-to {
+  position: absolute;
+  top: 423px;
+  left: 454px;
+  font-size: 32px;
+  display: inline-block;
+  width: 965px;
+  height: 186px;
+}
+.microsoftteams-image-9-1 {
+  position: absolute;
+  top: 176px;
+  left: 24px;
+  border-radius: 1000px;
+  width: 378px;
+  height: 671px;
+  object-fit: cover;
+}
+.education2 {
+  width: 100%;
+  position: relative;
+  border-radius: 17px;
+  background-color: #e1efff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 3px solid #1a88ab;
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 26px;
+  color: #4a617c;
+  font-family: Lexend;
+}

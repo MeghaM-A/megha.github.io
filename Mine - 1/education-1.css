@@ -1,0 +1,136 @@
+.home3 {
+  left: 417px;
+  width: 90px;
+  cursor: pointer;
+}
+.about4,
+.contact3,
+.education5,
+.home3 {
+  position: absolute;
+  top: 37px;
+  font-weight: 600;
+  display: inline-block;
+  height: 58px;
+}
+.about4 {
+  left: 562px;
+  width: 91px;
+  cursor: pointer;
+}
+.contact3,
+.education5 {
+  left: 707px;
+  width: 140px;
+}
+.contact3 {
+  left: 894px;
+  width: 111px;
+  cursor: pointer;
+}
+.education-1-child {
+  position: absolute;
+  top: 79px;
+  left: 708px;
+  width: 133px;
+  height: 2px;
+  object-fit: contain;
+}
+.journey-of-techbee {
+  margin: 0;
+}
+.i-began-my,
+.journey-of-techbee-container {
+  position: absolute;
+  top: 272px;
+  left: 442px;
+  font-size: 30px;
+  display: inline-block;
+  width: 383px;
+  height: 74px;
+}
+.i-began-my {
+  top: 404px;
+  left: 444px;
+  font-size: 27px;
+  width: 959px;
+  height: 356px;
+}
+.education-1-item {
+  position: absolute;
+  top: 929px;
+  left: 53px;
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.education-1-inner {
+  position: absolute;
+  top: 356.8px;
+  left: 449px;
+  max-height: 100%;
+  width: 355px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 929px;
+  left: 1333px;
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.microsoftteams-image-9-11 {
+  position: absolute;
+  top: 176px;
+  left: 24px;
+  border-radius: 1000px;
+  width: 378px;
+  height: 671px;
+  object-fit: cover;
+}
+.education6 {
+  position: absolute;
+  top: 148px;
+  left: 513px;
+  font-size: 36px;
+  font-weight: 600;
+  display: inline-block;
+  width: 207px;
+  height: 49px;
+}
+.education-1-child1,
+.image-3-icon1 {
+  position: absolute;
+  top: 209.9px;
+  left: 513px;
+  width: 192.4px;
+  height: 0.5px;
+  object-fit: contain;
+}
+.image-3-icon1 {
+  top: 148px;
+  left: 436px;
+  border-radius: 1000px;
+  width: 66px;
+  height: 71px;
+  object-fit: cover;
+}
+.education-1 {
+  width: 100%;
+  position: relative;
+  border-radius: 17px;
+  background-color: #e1efff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 3px solid #1a88ab;
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 26px;
+  color: #4a617c;
+  font-family: Lexend;
+}

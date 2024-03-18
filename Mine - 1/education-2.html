@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./education-2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="education-2">
+      <div class="home4" id="homeText">Home</div>
+      <div class="about5" id="aboutText">About</div>
+      <div class="education7">Education</div>
+      <div class="contact4" id="contactText">Contact</div>
+      <img class="education-2-child" alt="" src="./public/line-41.svg" />
+
+      <div class="skills-and-knowledge">Skills and Knowledge:</div>
+      <div class="web-development-container">
+        <p class="web-development-html-css-j">
+          <b class="web-development">Web Development</b>
+          <span> : HTML, CSS, JavaScript</span>
+        </p>
+        <p class="web-development-html-css-j">
+          <b class="web-development">Programming Languages</b>
+          <span> : Scratch, Java, C, Python</span>
+        </p>
+        <p class="web-development-html-css-j">
+          <b class="web-development">Database</b>
+          <span> : MySQL, JDBC for database connectivity</span>
+        </p>
+        <p class="web-development-html-css-j">
+          <b>Design and Prototyping</b>
+          <span class="web-development"> : Figma</span>
+        </p>
+        <p class="web-development-html-css-j">
+          <b class="web-development">Simulation Software</b>
+          <span> : Adobe Captivate CC Latest</span>
+        </p>
+        <p class="other-skills-content-creatio">
+          <b class="web-development">Other Skills</b>
+          <span>
+            : Content creation, problem-solving, creative thinking, PPT
+            creation, designing.</span
+          >
+        </p>
+      </div>
+      <img
+        class="education-2-item"
+        alt=""
+        src="./public/rectangle-17@2x.png"
+        id="rectangleImage"
+      />
+
+      <img class="education-2-inner" alt="" src="./public/line-51.svg" />
+
+      <img
+        class="microsoftteams-image-9-12"
+        alt=""
+        src="./public/microsoftteamsimage-9-1@2x.png"
+      />
+
+      <div class="education8">Education</div>
+      <img class="education-2-child1" alt="" src="./public/line-32.svg" />
+
+      <img class="image-3-icon2" alt="" src="./public/image-3@2x.png" />
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var aboutText = document.getElementById("aboutText");
+      if (aboutText) {
+        aboutText.addEventListener("click", function (e) {
+          window.location.href = "./about.html";
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./contact.html";
+        });
+      }
+      
+      var rectangleImage = document.getElementById("rectangleImage");
+      if (rectangleImage) {
+        rectangleImage.addEventListener("click", function (e) {
+          window.location.href = "./education-1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

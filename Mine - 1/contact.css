@@ -1,0 +1,156 @@
+.image-4-icon {
+  position: absolute;
+  top: 213px;
+  left: 1118px;
+  border-radius: 1000px;
+  width: 266px;
+  height: 266px;
+  object-fit: cover;
+}
+.contact-me,
+.home5 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  height: 58px;
+}
+.home5 {
+  top: 37px;
+  left: 417px;
+  width: 90px;
+  cursor: pointer;
+}
+.contact-me {
+  top: 509px;
+  left: 1160px;
+  font-size: 36px;
+  width: 224px;
+}
+.about6 {
+  left: 562px;
+  width: 91px;
+  cursor: pointer;
+}
+.about6,
+.contact6,
+.education9 {
+  position: absolute;
+  top: 37px;
+  font-weight: 600;
+  display: inline-block;
+  height: 58px;
+}
+.education9 {
+  left: 707px;
+  width: 140px;
+  cursor: pointer;
+}
+.contact6 {
+  left: 894px;
+  width: 111px;
+}
+.contact-child {
+  position: absolute;
+  top: 79px;
+  left: 895px;
+  width: 104px;
+  height: 2px;
+  object-fit: contain;
+}
+.contact-item {
+  position: absolute;
+  top: 272px;
+  left: 384px;
+  border-radius: 20px;
+  background-color: #a9d8e8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 8px solid #82c9e0;
+  box-sizing: border-box;
+  width: 571px;
+  height: 462px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 318px;
+  left: 427px;
+  border-radius: 1000px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.chennai-tamil-nadu1,
+.div,
+.meghagmailcom {
+  position: absolute;
+  top: 326px;
+  left: 492px;
+  font-size: 27px;
+  display: inline-block;
+  width: 292px;
+  height: 34px;
+}
+.div,
+.meghagmailcom {
+  top: 434px;
+}
+.meghagmailcom {
+  top: 553px;
+  width: 392px;
+}
+.contact-child1,
+.contact-inner,
+.line-div {
+  position: absolute;
+  top: 388px;
+  left: 434px;
+  border-top: 2px dashed #2471cb;
+  box-sizing: border-box;
+  width: 452px;
+  height: 2px;
+}
+.contact-child1,
+.line-div {
+  top: 505px;
+  left: 433px;
+}
+.contact-child1 {
+  top: 628px;
+}
+.image-6-icon,
+.image-7-icon,
+.image-8-icon {
+  position: absolute;
+  top: 426px;
+  left: 427px;
+  border-radius: 1000px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-7-icon,
+.image-8-icon {
+  top: 544px;
+  height: 51.1px;
+}
+.image-8-icon {
+  top: 603px;
+  left: 855px;
+  border-radius: 50px;
+  width: 200px;
+  height: 200px;
+}
+.contact5 {
+  width: 100%;
+  position: relative;
+  border-radius: 17px;
+  background-color: #e1efff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 3px solid #1a88ab;
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 26px;
+  color: #4a617c;
+  font-family: Lexend;
+}

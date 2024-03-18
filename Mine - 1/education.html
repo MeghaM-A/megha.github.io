@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./education.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="education2">
+      <div class="home2" id="homeText">Home</div>
+      <div class="about3" id="aboutText">About</div>
+      <div class="education3">Education</div>
+      <div class="contact2" id="contactText">Contact</div>
+      <img class="education-child" alt="" src="./public/line-41.svg" />
+
+      <img
+        class="education-item"
+        alt=""
+        src="./public/rectangle-16@2x.png"
+        id="rectangleImage"
+      />
+
+      <div class="school-life">
+        <p class="p">2006 - 2021</p>
+        <p class="p">School Life</p>
+      </div>
+      <div class="education4">Education</div>
+      <img class="education-inner" alt="" src="./public/line-32.svg" />
+
+      <img class="line-icon" alt="" src="./public/line-5.svg" />
+
+      <img class="image-3-icon" alt="" src="./public/image-3@2x.png" />
+
+      <div class="from-2006-to">
+        From 2006 to 2019, I completed my education from Pre-KG to 10th
+        Standard. Subsequently, from 2019 to 2021, I pursued and completed my
+        11th and 12th-grade education, specializing in a Computer Science and
+        Mathematics course.
+      </div>
+      <img
+        class="microsoftteams-image-9-1"
+        alt=""
+        src="./public/microsoftteamsimage-9-1@2x.png"
+      />
+
+      <img
+        class="microsoftteams-image-9-1"
+        alt=""
+        src="./public/microsoftteamsimage-9-1@2x.png"
+      />
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var aboutText = document.getElementById("aboutText");
+      if (aboutText) {
+        aboutText.addEventListener("click", function (e) {
+          window.location.href = "./about.html";
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./contact.html";
+        });
+      }
+      
+      var rectangleImage = document.getElementById("rectangleImage");
+      if (rectangleImage) {
+        rectangleImage.addEventListener("click", function (e) {
+          window.location.href = "./education-1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

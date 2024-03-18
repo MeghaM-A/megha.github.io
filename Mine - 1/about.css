@@ -1,0 +1,145 @@
+.about-me,
+.home1 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  height: 58px;
+}
+.home1 {
+  top: 37px;
+  left: 417px;
+  width: 90px;
+  cursor: pointer;
+}
+.about-me {
+  top: 166px;
+  left: 36px;
+  font-size: 36px;
+  width: 203px;
+}
+.chennai-tamil-nadu,
+.date-of-birth,
+.live-in {
+  position: absolute;
+  top: 672px;
+  left: 102px;
+  font-size: 24px;
+  color: #778392;
+  display: inline-block;
+  width: 130px;
+  height: 58px;
+}
+.chennai-tamil-nadu,
+.date-of-birth {
+  top: 701px;
+  color: #3080de;
+  width: 251px;
+  height: 30px;
+}
+.date-of-birth {
+  top: 771px;
+  color: #778392;
+  width: 159px;
+  height: 29px;
+}
+.th-aug-2003 {
+  top: 800px;
+  left: 102px;
+  font-size: 24px;
+  color: #3080de;
+  width: 184px;
+  height: 30px;
+}
+.as-a-dedicated,
+.megha-m-a1,
+.th-aug-2003 {
+  position: absolute;
+  display: inline-block;
+}
+.megha-m-a1 {
+  top: 606px;
+  left: 1149px;
+  font-size: 36px;
+  font-weight: 600;
+  width: 203px;
+  height: 58px;
+}
+.as-a-dedicated {
+  top: 286px;
+  left: 36px;
+  font-size: 32px;
+  width: 1054px;
+  height: 317px;
+}
+.about2,
+.contact1,
+.education1 {
+  position: absolute;
+  top: 37px;
+  left: 562px;
+  font-weight: 600;
+  display: inline-block;
+  width: 91px;
+  height: 58px;
+}
+.contact1,
+.education1 {
+  left: 707px;
+  width: 140px;
+  cursor: pointer;
+}
+.contact1 {
+  left: 894px;
+  width: 111px;
+}
+.about-child {
+  position: absolute;
+  top: 223.5px;
+  left: 36px;
+  width: 175px;
+  height: 0.3px;
+  object-fit: contain;
+}
+.about-item {
+  position: absolute;
+  top: 81px;
+  left: 563px;
+  max-height: 100%;
+  width: 80px;
+}
+.image-1-icon,
+.image-9-icon,
+.microsoftteams-image-1-1 {
+  position: absolute;
+  top: 245px;
+  left: 1090px;
+  border-radius: 1000px;
+  width: 330px;
+  height: 333.8px;
+  object-fit: cover;
+}
+.image-1-icon,
+.image-9-icon {
+  top: 674px;
+  left: 36px;
+  width: 55px;
+  height: 55px;
+}
+.image-9-icon {
+  top: 775px;
+}
+.about1 {
+  width: 100%;
+  position: relative;
+  border-radius: 17px;
+  background-color: #e1efff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 3px solid #1a88ab;
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 26px;
+  color: #4a617c;
+  font-family: Lexend;
+}
